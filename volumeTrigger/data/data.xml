@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<volumes>
+  <volume>
+    <position x="15.0000305" y="-10.0" z="150.00003"/>
+    <size x="84.75001" y="52.250004" z="286.25003"/>
+    <label>Volume1</label>
+  </volume>
+  <volume>
+    <position x="180.00003" y="20.00003" z="145.00003"/>
+    <size x="97.75" y="97.75" z="390.25"/>
+    <label>Volume2</label>
+  </volume>
+  <volume>
+    <position x="5.0000305" y="150.00003" z="120.00003"/>
+    <size x="75.0" y="81.5" z="286.25003"/>
+    <label>Volume3</label>
+  </volume>
+</volumes>
